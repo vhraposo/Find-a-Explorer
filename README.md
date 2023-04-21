@@ -1,4 +1,4 @@
-# Comunidade de Estudantes :mortar_board: :bulb: :computer:
+# Find a Explorer :mortar_board: :bulb: :computer:
 
 Bem-vindo ao repositório do Find a Explorer, um projeto **open source** que tem como objetivo reunir estudantes do explorer para compartilhar conhecimento e se ajudar mutuamente.
 
