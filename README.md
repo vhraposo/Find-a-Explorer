@@ -1,6 +1,6 @@
 # Comunidade de Estudantes :mortar_board: :bulb: :computer:
 
-Bem-vindo ao repositório da Comunidade de Estudantes, um projeto **open source** que tem como objetivo reunir estudantes de diversas áreas para compartilhar conhecimento e se ajudar mutuamente.
+Bem-vindo ao repositório do Find a Explorer, um projeto **open source** que tem como objetivo reunir estudantes do explorer para compartilhar conhecimento e se ajudar mutuamente.
 
 ## Objetivos :dart:
 
@@ -8,7 +8,7 @@ Nosso objetivo é criar um ambiente colaborativo onde estudantes possam se conec
 
 ## Como contribuir :muscle:
 
-Há várias maneiras de contribuir com a Comunidade de Estudantes:
+Há várias maneiras de contribuir com o Find A Explorer:
 
 - Você pode ajudar a melhorar o código do projeto.
 - Você pode sugerir novos recursos e funcionalidades.
@@ -21,9 +21,8 @@ Qualquer pessoa pode contribuir, independentemente de sua experiência em progra
 
 O projeto é construído com as seguintes tecnologias:
 
-- Python :snake:
-- Django :spider_web:
-- PostgreSQL :elephant:
+- React :spider_web:
+- MySQL :elephant:
 - HTML :page_with_curl:
 - CSS :art:
 - JavaScript :hammer:
@@ -31,10 +30,10 @@ O projeto é construído com as seguintes tecnologias:
 ## Como executar o projeto :running:
 
 1. Clone o repositório para sua máquina local
-2. Certifique-se de que você tem Python e Django instalados em sua máquina
+2. Certifique-se de que você tem Node e Git instalados em sua máquina
 3. Crie um ambiente virtual para o projeto e ative-o
-4. Instale as dependências do projeto usando o arquivo requirements.txt
-5. Execute o comando `python manage.py runserver` para iniciar o servidor
+4. Instale as dependências do projeto usando o *npm install*
+5. Execute o comando `----` para iniciar o servidor
 
 ## Como reportar bugs ou sugerir novas funcionalidades :bug: :bulb:
 
